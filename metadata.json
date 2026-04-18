@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Generator",
+  "description": "An AI video generator powered by Google's Veo model.",
+  "requestFramePermissions": []
+}
